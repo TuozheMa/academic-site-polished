@@ -1,0 +1,8 @@
+baseURL = 'https://tuozhema.github.io/academic-site-polished/'
+languageCode = 'en-us'
+title = 'Tuozhe Ma'
+theme = "ananke"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
