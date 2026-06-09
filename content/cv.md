@@ -6,33 +6,23 @@ title = "CV"
 
 
 
-My CV will be added here in the future.
+My CV will be gradually completed in the future.
 
 
 
-\## Education
+At the current stage, this page is used to organize my academic preparation, technical skills, research interests, selected projects, and long-term development record.
 
 
 
-To be added.
+Planned Sections
 
 
 
-\## Research Interests
+The CV page will gradually include education, research interests, technical skills, selected projects, academic preparation, and contact information.
 
 
 
-\- Computer Science
-
-\- Artificial Intelligence
-
-\- Machine Learning
-
-\- Algorithms and Systems
-
-
-
-\## Projects
+Education
 
 
 
@@ -40,9 +30,25 @@ To be added.
 
 
 
-\## Contact
+Research Interests
 
 
 
-Email: to be added
+Computer Science, Artificial Intelligence, Machine Learning, Algorithms and Systems, and Intelligent Agents.
+
+
+
+Projects
+
+
+
+Selected projects will be added here in the future.
+
+
+
+Contact
+
+
+
+Contact information will be added later.
 

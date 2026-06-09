@@ -1,38 +1,17 @@
 +++
-
 title = "Projects"
-
 +++
 
+This page records my technical projects, course projects, research-oriented implementations, personal works, study notes, and technical summaries.
 
-
-<h2>Personal Academic Homepage</h2>
-
-
-
-<p>
+Personal Academic Homepage
 
 A long-term academic identity website built with Hugo and GitHub Pages.
 
-</p>
+This website is used to organize my background, research interests, technical projects, study notes, CV, and future publications. It also serves as a record of my process of building a more formal academic profile.
 
+Future Project Categories
 
+Future projects may include course projects, technical projects, research-oriented implementations, personal works, study notes, technical summaries, and website development records.
 
-<p>
-
-This website will be used to organize my background, research interests, technical projects, study notes, CV, and future publications.
-
-</p>
-
-
-
-<h2>Future Projects</h2>
-
-
-
-<p>
-
-More technical projects, course projects, research-related projects, and personal learning records will be added here in the future.
-
-</p>
-
+More projects will be added as my academic and technical preparation develops.
